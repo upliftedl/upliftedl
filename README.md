@@ -8,9 +8,7 @@ As a student pursuing a degree in Computer Science, I am eager to apply my skill
 
 
 <h3 align="center"> B.Tech/B.E. Computer science 👨‍💻</h3>
-<h1 align="center" >Technical Skills 🛠</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
-   
+<h1 align="center" >Technical Skills 🛠</h1>   
 <h3 align="center">I have learned app-development and have knowledge of Java, Python , Flutter , C, MySQL.</h3>
 <p align="center"> 
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
