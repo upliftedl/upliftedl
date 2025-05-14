@@ -6,10 +6,11 @@
 Hey! I am a Computer Science student with a keen interest in software development, web development, and mobile app development using Flutter. 
 As a student pursuing a degree in Computer Science, I am eager to apply my skills and knowledge to real-world challenges ⚡
 <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+
 <h3 align="center"> B.Tech/B.E. Computer science 👨‍💻</h3>
 <h1>Technical Skills 🛠</h1>
    
-I have learned app-development and have knowledge of Java, Python , Flutter , C, MySQL.
+<h3 align="center">I have learned app-development and have knowledge of Java, Python , Flutter , C, MySQL.</h3>
 <p align="center"> 
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
