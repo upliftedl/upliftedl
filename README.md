@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=upliftedl&color=red)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/abhishekjohns/" target="_blank">Upliftedl </a></h1>
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 Hey! I am a Computer Science student with a keen interest in software development, web development, and mobile app development using Flutter. 
 As a student pursuing a degree in Computer Science, I am eager to apply my skills and knowledge to real-world challenges ⚡
