@@ -7,6 +7,9 @@ Hey! I am a Computer Science student with a keen interest in software developmen
 As a student pursuing a degree in Computer Science, I am eager to apply my skills and knowledge to real-world challenges ⚡
 
 <h3 align="center"> B.Tech/B.E. Computer science 👨‍💻</h3>
+<h1>Technical Skills 🛠</h1>
+   
+I have learned app-development and have knowledge of Java, Python , Flutter , C, MySQL.
 <p align="center"> 
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
