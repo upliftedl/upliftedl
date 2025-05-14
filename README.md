@@ -14,7 +14,14 @@ As a student pursuing a degree in Computer Science, I am eager to apply my skill
 </p>
 <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 
-<p align="center"> 
+ <h1 align="center">Let's Get Connected</h1>
 
- [![GitHub followers](https://img.shields.io/github/followers/upliftedl.svg?style=social&label=Follow)](https://github.com/upliftedl?tab=followers)
-</p>
+<div align="center">
+
+<a  href="https://www.youtube.com/upliftedll" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a  href="[https://www.linkedin.com/in/abhishekjohns/](https://www.linkedin.com/in/abhishekjohns/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/abhishekjohns" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:3080.ui@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://t.me/abhishekjohns"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://www.instagram.com/upliftedl/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
