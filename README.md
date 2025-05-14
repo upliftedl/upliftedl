@@ -8,7 +8,7 @@ As a student pursuing a degree in Computer Science, I am eager to apply my skill
 
 
 <h3 align="center"> B.Tech/B.E. Computer science 👨‍💻</h3>
-<h1>Technical Skills 🛠</h1>
+<h1 align="center" >Technical Skills 🛠</h1><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"/>
    
 <h3 align="center">I have learned app-development and have knowledge of Java, Python , Flutter , C, MySQL.</h3>
 <p align="center"> 
@@ -35,4 +35,4 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 <a  href="https://www.instagram.com/upliftedl/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
-<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"/>
+
