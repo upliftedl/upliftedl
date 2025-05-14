@@ -13,3 +13,7 @@ As a student pursuing a degree in Computer Science, I am eager to apply my skill
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+
+
+
+ [![GitHub followers](https://img.shields.io/github/followers/upliftedl.svg?style=social&label=Follow)](https://github.com/upliftedl?tab=followers)
