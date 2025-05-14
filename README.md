@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=upliftedl&color=red)
 
-
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/abhishekjohns/" target="_blank">Upliftedl </a></h1>
 <img src="images/butterfly.gif" width=30%> <img src="images/dog.gif" width=20%>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/abhishekjohns/" target="_blank">Upliftedl </a></h1>
+
 Hey! I am a Computer Science student with a keen interest in software development, web development, and mobile app development using Flutter. 
 As a student pursuing a degree in Computer Science, I am eager to apply my skills and knowledge to real-world challenges ⚡
 
