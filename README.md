@@ -20,6 +20,8 @@ I have learned app-development and have knowledge of Java, Python , Flutter , C,
 </p>
 <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 
+I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person.
+
  <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
