@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=upliftedl&color=red)
 
 ![LinkedIn Banner](linkedin-banner.png)
 
@@ -9,6 +8,7 @@
 Hey! I am a Computer Science student with a keen interest in software development, web development, and mobile app development using Flutter. 
 As a student pursuing a degree in Computer Science, I am eager to apply my skills and knowledge to real-world challenges ⚡
 
+![](https://komarev.com/ghpvc/?username=upliftedl&color=red)
 
 <h3 align="center"> B.Tech/B.E. Computer science 👨‍💻</h3>
 <h1 align="center" >Technical Skills 🛠</h1>   
@@ -40,3 +40,4 @@ I believe in implementing the knowledge which you have. Projects play a major ro
    </a>
 
 
+<h3 align="center"></h3>
