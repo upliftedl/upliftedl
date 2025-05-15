@@ -1,4 +1,3 @@
-![]("C:\Users\abhis\Downloads\Black Minimal Business Personal Profile Linkedin Banner.png"?raw=true "Title")
 ![](https://komarev.com/ghpvc/?username=upliftedl&color=red)
 <h1 align="center" >Hi, I'm  <a href="https://www.linkedin.com/in/abhishekjohns/" target="_blank">Abhishek Johns (Upliftedl) 👋 </a></h1>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
