@@ -1,4 +1,4 @@
-![LinkedIn Banner](Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
+![LinkedIn Banner](linkedin-banner.png)
 
 ![](https://komarev.com/ghpvc/?username=upliftedl&color=red)
 <h1 align="center" >Hi, I'm  <a href="https://www.linkedin.com/in/abhishekjohns/" target="_blank">Abhishek Johns (Upliftedl) 👋 </a></h1>
