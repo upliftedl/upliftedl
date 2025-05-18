@@ -1,5 +1,6 @@
 
 ![LinkedIn Banner](linkedin-banner.png)
+![](https://komarev.com/ghpvc/?username=upliftedl&color=blue)
 
 <h1 align="center" >Hi, I'm  <a href="https://www.linkedin.com/in/abhishekjohns/" target="_blank">Abhishek Johns (Upliftedl) 👋 </a></h1>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
@@ -8,7 +9,6 @@
 Hey! I am a Computer Science student with a keen interest in software development, web development, and mobile app development using Flutter. 
 As a student pursuing a degree in Computer Science, I am eager to apply my skills and knowledge to real-world challenges ⚡
 
-![](https://komarev.com/ghpvc/?username=upliftedl&color=red)
 
 <h3 align="center"> B.Tech/B.E. Computer science 👨‍💻</h3>
 <h1 align="center" >Technical Skills 🛠</h1>   
