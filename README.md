@@ -1,3 +1,4 @@
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5018325.png)](https://tryhackme.com/p/5018325)
 
 ![LinkedIn Banner](linkedin-banner.png)
 <!-- ![](https://komarev.com/ghpvc/?username=upliftedl&color=blue)--!>
@@ -38,6 +39,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 <a  href="https://t.me/abhishekjohns"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a  href="https://www.instagram.com/upliftedl/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
+   
 
 
 <h3 align="center"></h3>
