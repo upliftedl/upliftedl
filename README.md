@@ -14,7 +14,6 @@
  I’m a Computer Science student passionate about **software development**, **web development**, and **mobile app development using Flutter**.  
  I love solving real-world problems through code and am always up for a challenge!
 
-![Pentester Badge](https://img.shields.io/badge/Pentester-Active%20CTF%20Player-ff69b4?style=flat&logo=gnubash)
 
 ---
 
